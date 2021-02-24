@@ -2,7 +2,7 @@
  * 系统时间管理
  * --------------------------
  * 作者: 阿凯|Kyle
- * 邮箱: xingshunkai@qq.com
+ * 邮箱: kyle.xing@fashionstar.com.hk
  * 更新时间: 2020/05/19
  */
 #ifndef __SYSTICK_H

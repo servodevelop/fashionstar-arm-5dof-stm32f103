@@ -2,7 +2,7 @@
 // * FashionStar五自由度机械臂-初始化测试
 // * --------------------------
 // * 作者: 阿凯|Kyle
-// * 邮箱: xingshunkai@qq.com
+// * 邮箱: kyle.xing@fashionstar.com.hk
 // * 更新时间: 2020/05/26
 // */
 // 
@@ -38,7 +38,7 @@
 // * FashionStar五自由度机械臂-阻尼模式下角度回读
 // * --------------------------
 // * 作者: 阿凯|Kyle
-// * 邮箱: xingshunkai@qq.com
+// * 邮箱: kyle.xing@fashionstar.com.hk
 // * 更新时间: 2020/05/26
 // */
 // 
@@ -115,7 +115,7 @@
 // * FashionStar五自由度机械臂-设置关节角度
 // * --------------------------
 // * 作者: 阿凯|Kyle
-// * 邮箱: xingshunkai@qq.com
+// * 邮箱: kyle.xing@fashionstar.com.hk
 // * 更新时间: 2020/05/26
 // */
 // 
@@ -179,7 +179,7 @@
 // * FashionStar五自由度机械臂-机械臂正向运动学测试
 // * --------------------------
 // * 作者: 阿凯|Kyle
-// * 邮箱: xingshunkai@qq.com
+// * 邮箱: kyle.xing@fashionstar.com.hk
 // * 更新时间: 2020/05/26
 // */
 // 
@@ -260,7 +260,7 @@
 // * FashionStar五自由度机械臂-机械臂逆向运动学测试
 // * --------------------------
 // * 作者: 阿凯|Kyle
-// * 邮箱: xingshunkai@qq.com
+// * 邮箱: kyle.xing@fashionstar.com.hk
 // * 更新时间: 2020/05/27
 // */
 // 
@@ -347,7 +347,7 @@
 // * FashionStar五自由度机械臂-点控MoveP2P(自由轨迹)
 // * --------------------------
 // * 作者: 阿凯|Kyle
-// * 邮箱: xingshunkai@qq.com
+// * 邮箱: kyle.xing@fashionstar.com.hk
 // * 更新时间: 2020/05/27
 // */
 // 
@@ -395,7 +395,7 @@
  * FashionStar五自由度机械臂-按键控制
  * --------------------------
  * 作者: 阿凯|Kyle
- * 邮箱: xingshunkai@qq.com
+ * 邮箱: kyle.xing@fashionstar.com.hk
  * 更新时间: 2020/06/20
  */
  
